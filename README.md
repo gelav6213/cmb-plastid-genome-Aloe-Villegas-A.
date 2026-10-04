@@ -1,7 +1,7 @@
 ## Name: Angela B. Villegas 
 ## Course/section: Cell & Molecular Biology - A
 ## NCBI accession/version: NC_035506.1
-## Source link: https://doi.org/10.1080/23802359.2020.1726229
+## Source link: https://www.ncbi.nlm.nih.gov/nuccore/NC_035506.1report=genbank#feature_NC_035506.1
 ## Date the genome was retrieved: September 29, 2026
 ## Genome size: 152,875 bp
 
