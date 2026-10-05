@@ -15,3 +15,5 @@
 - The annotated GenBank file was uploaded to OGDRAW using the standard map mode and circular plastid map. Automatic inverted repeat detection was used, with the GC content graph, transcription direction, and full legend enabled. The final genome map was saved as a PNG file.
 
 ## Link: 
+
+[View my laboratory answers](answers/Lab_plastid_genome_answers.md)
